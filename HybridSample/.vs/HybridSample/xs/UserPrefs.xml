@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A8B58602-B539-4133-8028-661D3BA75A04}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HybridSample/Services/FieldPalConfig.cs">
+    <Files>
+      <File FileName="HybridSample/App.xaml.cs" Line="12" Column="1" />
+      <File FileName="HybridSample/Platforms/Tizen/Main.cs" Line="14" Column="17" />
+      <File FileName="HybridSample/MainPage.xaml" Line="22" Column="62" />
+      <File FileName="HybridSample/MainPage.xaml.cs" Line="40" Column="47" />
+      <File FileName="HybridSample/Services/EmptyClass.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HybridSample" expanded="True">
+            <Node name="HybridSample">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HybridSample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1495725E-3222-43F1-BB8F-5EF3CE97D313" />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1495725E-3222-43F1-BB8F-5EF3CE97D313" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

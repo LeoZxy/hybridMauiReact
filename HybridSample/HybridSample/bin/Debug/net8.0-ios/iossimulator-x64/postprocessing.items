@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="HybridSample.app/HybridSample">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>HybridSample.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>HybridSample.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/leozhang/Desktop/Hybrid/HybridSample/HybridSample/obj/Debug/net8.0-ios/iossimulator-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>HybridSample.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/leozhang/Desktop/Hybrid/HybridSample/HybridSample</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>
